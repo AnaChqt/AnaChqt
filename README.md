@@ -4,7 +4,7 @@ I'm Anaïs, a web developer from Amiens, France.
 
 ### How to reach me ?
 
-💻 [Portfolio](https://anachqt.github.io/CVNumeriqueAnaisChoquet/)
+💻 [Portfolio](https://anachqt.github.io/React-CV/)
 
 💻 [Linkedin](https://www.linkedin.com/in/ana%C3%AFs-choquet-00926a158/)
 
