@@ -6,7 +6,7 @@ I'm Anaïs, a web developer from Amiens, France.
 
 💻 [Portfolio](https://anachqt.github.io/React-CV/)
 
-💻 [Linkedin](https://www.linkedin.com/in/ana%C3%AFs-choquet-00926a158/)
+💻 [Linkedin](https://www.linkedin.com/in/ana%C3%AFs-choquet/)
 
 
 <!--
